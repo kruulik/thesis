@@ -1,0 +1,19 @@
+{
+  "name": "thesis_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruulik/thesis.git"
+  },
+  "keywords": [],
+  "author": "Karolis <karoliskrulis@gmail.com> (karoliskrulis.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruulik/thesis/issues"
+  },
+  "homepage": "https://github.com/kruulik/thesis#readme"
+}
